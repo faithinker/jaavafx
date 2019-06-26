@@ -1,12 +1,12 @@
 # 인덕대 컴소과 2학년 1학기 javaFx 실기 시험 정리
 
-
+<img width="396" alt="스크린샷 2019-06-26 오후 5 35 05" src="https://user-images.githubusercontent.com/39996770/60164632-e5a69180-9838-11e9-90ac-b746e0124061.png">
 
 
 
 ## 유응구 교수님 깃허브
 
-- [Git Repository](https://github.com/egyou) 
+- [eg you Git Repository](https://github.com/egyou) 
 
 
 ### javafx 파일 구조 및 misson
@@ -16,7 +16,7 @@
 3.  txt파일을 csv 파일로 전환함
 4. final_test.jpg에 해당 mission이 주어져있음
 
-
+![final_test](https://user-images.githubusercontent.com/39996770/60164467-96606100-9838-11e9-9edf-b35042004f78.jpeg)
 ### 배운점 
 
 1. MVC 모델에 대한 이해와 왜 아키텍쳐 설계가 중요한지에 대해 깨닫게 되었음
